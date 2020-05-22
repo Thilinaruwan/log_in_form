@@ -52,6 +52,7 @@ input[type=button]
 	cursor: pointer;
 	width: 180px;
 	margin-left: 30px;
+	outline: none;
 }
 input[type=button]:hover
 {
